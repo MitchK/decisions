@@ -1,0 +1,4 @@
+export default {
+  ADD_DECISION: 'ADD_DECISION',
+  REMOVE_DECISION: 'REMOVE_DECISION',
+}
